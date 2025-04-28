@@ -1,0 +1,12 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#07030E', overflow: 'hidden'}}>
+<img style={{width: 506, height: 903, left: -64, top: -43, position: 'absolute'}} src="https://placehold.co/506x903" />
+<div style={{width: 210, padding: 10, left: 92, top: 678, position: 'absolute', background: '#13213C', borderRadius: 12, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+<div style={{color: 'white', fontSize: 17, fontFamily: 'Pixelify Sans', fontWeight: '400', lineHeight: 25.50, wordWrap: 'break-word'}}>Спроси у Карт</div>
+</div>
+<div style={{width: 210, padding: 10, left: 92, top: 743, position: 'absolute', background: '#13213C', borderRadius: 12, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+<div style={{color: 'white', fontSize: 17, fontFamily: 'Pixelify Sans', fontWeight: '400', lineHeight: 25.50, wordWrap: 'break-word'}}>Daily</div>
+</div>
+<div style={{width: 28, height: 28, left: 343, top: 38, position: 'absolute', overflow: 'hidden'}}>
+<div style={{width: 21, height: 28, left: 3.50, top: 0.03, position: 'absolute', background: 'white'}} />
+</div>
+</div>
