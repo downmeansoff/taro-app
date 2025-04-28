@@ -1,0 +1,12 @@
+.card-container {
+    transition: transform 0.3s ease;
+  }
+  
+  .card-container:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Анимация перемешивания */
+  .motion-div {
+    transition: all 0.5s ease;
+  }
