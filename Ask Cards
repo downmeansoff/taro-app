@@ -1,0 +1,18 @@
+<div style={{width: '100%', height: '100%', position: 'relative', overflow: 'hidden'}}>
+    <img style={{width: 506, height: 903, left: -64, top: -43, position: 'absolute'}} src="https://placehold.co/506x903" />
+    <div style={{width: 393, height: 852, left: 0, top: 0, position: 'absolute', opacity: 0.60, background: '#343B53'}} />
+    <div style={{width: 393, height: 474, left: 0, top: 398, position: 'absolute', background: '#16243F', borderRadius: 26, border: '4px #13213C solid'}} />
+    <div style={{width: 343, height: 131, left: 24, top: 427, position: 'absolute', background: 'rgba(52, 59, 83, 0.76)', borderRadius: 13}} />
+    <div style={{width: 343, height: 36, left: 24, top: 593, position: 'absolute', background: 'rgba(79.13, 106.70, 201.25, 0.76)', borderRadius: 6}} />
+    <div style={{width: 343, height: 36, left: 24, top: 636, position: 'absolute', background: 'rgba(79.13, 106.70, 201.25, 0.76)', borderRadius: 6}} />
+    <div style={{width: 343, height: 36, left: 24, top: 679, position: 'absolute', background: 'rgba(79.13, 106.70, 201.25, 0.76)', borderRadius: 6}} />
+    <div style={{left: 40, top: 441, position: 'absolute', color: 'white', fontSize: 17, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Напиши свой вопрос здесь...</div>
+    <div style={{left: 24, top: 569, position: 'absolute', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Популярные вопросы</div>
+    <div style={{left: 40, top: 602, position: 'absolute', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Что ждет меня завтра?</div>
+    <div style={{left: 40, top: 645, position: 'absolute', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Успешен ли я на работе?</div>
+    <div style={{left: 40, top: 688, position: 'absolute', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>Счастлив ли я в отношениях?</div>
+    <div style={{width: 343, height: 69, padding: 10, left: 24, top: 736, position: 'absolute', background: '#191236', borderRadius: 12, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 17, fontFamily: 'Inter', fontWeight: '400', lineHeight: 25.50, wordWrap: 'break-word'}}>Узнать ответ</div>
+    </div>
+    <img style={{width: 35, height: 39, left: 319, top: 514, position: 'absolute'}} src="https://placehold.co/35x39" />
+</div>
